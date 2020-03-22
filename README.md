@@ -1,2 +1,5 @@
-# 2018-02-eval-ANN
-Evaluación redes neuronales semestre 2018-02
+# 2019-02s
+Evaluación redes neuronales semestre 2019-02S
+
+### Angel Racini Meza
+#### C.C 1017248180
